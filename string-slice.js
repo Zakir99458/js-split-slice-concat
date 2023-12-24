@@ -18,3 +18,6 @@ console.log(testString.join(''));
 const anthemTest = ["amar", "sonar", "bangla", "ami", "tumai", "valobashi"];
 const listenAnthem = anthemTest.join(' ');
 console.log(listenAnthem);
+
+const numbers = [1,2,3,4,5,6,7,8];
+console.log(numbers.splice(3,));
