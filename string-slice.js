@@ -11,7 +11,10 @@ const fullName = firsName + lastName;
 // console.log(fullName);
 // concat
 const myFullName = firsName.concat(' Zakir').concat(' Hossain');
-console.log(myFullName);
+// console.log(myFullName);
 // join
 const testString = ['a', 'b', 'c'];
 console.log(testString.join(''));
+const anthemTest = ["amar", "sonar", "bangla", "ami", "tumai", "valobashi"];
+const listenAnthem = anthemTest.join(' ');
+console.log(listenAnthem);
